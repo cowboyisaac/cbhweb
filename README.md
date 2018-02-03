@@ -1,7 +1,8 @@
 ## Welcome to the Cowboy Hat Association 
 
 Who we are: We are hackers who code for the greater.
-How we do it: our methodology on the highest level - Think Elegant and Build Fast
+
+How we do it: our methodology on the highest level - Think Elegant and Build Fast. We are both thinkers and tinkers.
 
 Here we gather a group of hackers who can think elegant, build fast, belive they are a part of sth bigger and be willing to code for the greater. Some interesting ideas of think elegant and build fast will be published in this website. 
 
@@ -10,20 +11,17 @@ PS: Cowboy hats are differentiated from black/white/grey/red hats.. We have free
 Inspired by the blondie, starred by Clint Eastwood, in the old wild west movie
 [The good, the bad and the ulgy](https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly). 
 
-#Think Elegant
+## Think Elegant
 
-```markdown
 To think elegant is to discover the beautiful ways to construct a mental representation of the problems. The elegance should show simplicity and unusual effectiveness. 
 
 Newton's laws of physics are elegant for they are both *syntactially simple* and *ontological simple*, and *unsually effective* in predicting motions of objects in the assumed scope. 
 
 What are the elegance in vairous industries/knowledge domains and how they make things simpler yet effective?
 How to discover them? Or do we have an analytical way to identify them from knowledge base? Let's find out. 
- 
-```
 
-#Build Fast (or buildfast, we should have it just like breakfast everyday)
-```
+
+## Build Fast (or buildfast, we should have it just like breakfast everyday)
 
 ### From Break-Fast to Build-Fast
 Some best practises and paradigms in designing language and dev environments:
@@ -39,9 +37,6 @@ Methods and techniques all the way up from compilers. Here are some articles:
 
 
 check out cowboy's [fast draw](https://www.youtube.com/watch?v=KZ_7br_3y54) :)
-
-
-```
 
 # In addition to online ... we can host offline seminars/meet-ups to ...
 
